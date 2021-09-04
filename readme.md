@@ -1,10 +1,10 @@
 # DETALLES DE CONTACTO
-Móvil: (598) 94-990726
-Email: mzipi@outlook.com 
-LinkedIn: michellz
-FdeN: 21/04/1987
-C.I: 4694384-0
-Montevideo, Uruguay
+- Móvil: (598) 94-990726
+- Email: mzipi@outlook.com 
+- LinkedIn: michellz
+- FdeN: 21/04/1987
+- C.I: 4694384-0
+- Montevideo, Uruguay
 
 # PERFIL PROFESIONAL
 Soy una persona perfeccionista. Apasionado por la informática. Estoy constantemente informándome y aprendiendo.
